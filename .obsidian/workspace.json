@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eigene Songs.md",
+                "file": "Datenbanken.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eigene Songs"
-            }
-          },
-          {
-            "id": "cefb9d71f33dec44",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "Datenbanken"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,20 +202,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cefb9d71f33dec44",
+  "active": "419ec119dd0b56db",
   "lastOpenFiles": [
+    "Eigene Songs.md",
+    "Gitarren_Übungsplan.md",
+    "Lernvideos.md",
+    "Songs.md",
+    "Übersichten.md",
     "Datenbanken/er_modell_zusammenfassung.md",
     "Datenbanken.md",
     "Datenbanken",
     "Neuer Ordner",
     "2026-11-18.md",
-    "Songs.md",
-    "Übersichten.md",
     "Excalidraw/Drawing 2026-11-08 18.20.11.excalidraw.md",
-    "Eigene Songs.md",
     "Excalidraw",
-    "Gitarren_Übungsplan.md",
-    "Lernvideos.md",
     "Bilder/Pasted image 20261107103756.png",
     "Gitarrenkurs_Checkliste.md",
     "Drawing 2026-10-31 22.56.27.excalidraw.md",
