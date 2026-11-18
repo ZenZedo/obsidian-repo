@@ -1,6 +1,6 @@
 # Zusammenfassung: Das Entity-Relationship-Modell (ER-Modell)
 
-Das **Entity-Relationship-Modell (ERM)** dient dem konzeptionellen Datenbankentwurf. Ziel ist es, einen Ausschnitt der realen Welt (Miniwelt) strukturiert, eindeutig und unabhängig von einem konkreten Datenbankmanagementsystem grafisch darzustellen. a
+Das **Entity-Relationship-Modell (ERM)** dient dem konzeptionellen Datenbankentwurf. Ziel ist es, einen Ausschnitt der realen Welt (Miniwelt) strukturiert, eindeutig und unabhängig von einem konkreten Datenbankmanagementsystem grafisch darzustellen.
 
 ---
 
