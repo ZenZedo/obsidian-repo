@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenbanken.md",
+                "file": "Datenbanken/er_modell_zusammenfassung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Datenbanken"
+              "title": "er_modell_zusammenfassung"
             }
           }
         ]
@@ -204,13 +204,13 @@
   },
   "active": "419ec119dd0b56db",
   "lastOpenFiles": [
+    "Datenbanken.md",
     "Eigene Songs.md",
     "Gitarren_Übungsplan.md",
     "Lernvideos.md",
     "Songs.md",
     "Übersichten.md",
     "Datenbanken/er_modell_zusammenfassung.md",
-    "Datenbanken.md",
     "Datenbanken",
     "Neuer Ordner",
     "2026-11-18.md",
