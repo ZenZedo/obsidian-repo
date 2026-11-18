@@ -25,14 +25,14 @@
             "id": "cefb9d71f33dec44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Datenbanken/er_modell_zusammenfassung.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "er_modell_zusammenfassung"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -219,8 +219,8 @@
   },
   "active": "cefb9d71f33dec44",
   "lastOpenFiles": [
-    "Datenbanken.md",
     "Datenbanken/er_modell_zusammenfassung.md",
+    "Datenbanken.md",
     "Datenbanken",
     "Neuer Ordner",
     "2026-11-18.md",
