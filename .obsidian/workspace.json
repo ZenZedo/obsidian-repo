@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gitarren_Übungsplan.md",
+                "file": "Datenbanken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gitarren_Übungsplan.md",
+                "file": "Datenbanken.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,7 +217,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cefb9d71f33dec44",
+  "active": "c03ade3eef257e76",
   "lastOpenFiles": [
     "2026-11-18.md",
     "Datenbanken.md",
